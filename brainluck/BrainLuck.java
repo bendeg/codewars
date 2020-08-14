@@ -106,5 +106,4 @@ public class BrainLuck {
     System.out.println(this.output);
     return this.output;
   }
-  
 }
